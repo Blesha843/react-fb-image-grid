@@ -68,7 +68,6 @@
   left: 0;
   bottom: 0;
   color: white;
-  font-size: 7%;
   position: absolute;
   top: 50%;
   -webkit-transform: translate(0%, -50%);
@@ -90,7 +89,7 @@
   bottom: 100%;
   transition: .5s ease;
   overflow: hidden;
-  font-size: 3%;
+  font-size: 20px;
 }
 
 .border:hover .slide  {
